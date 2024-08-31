@@ -9,7 +9,7 @@
 
  <img width="235" alt="image" src="https://github.com/user-attachments/assets/260efb7a-9468-4ac7-923d-1dde5cf08f78">
 
-### Как установить? 
+### Второй вариант как установить:
 Жмякай сюда
 
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/31ac081a-2d58-4005-8244-ac83957b6df6">
