@@ -1,0 +1,29 @@
+{
+  "name": "unity-code-line-counter",
+  "version": "1.0.0",
+  "description": "A Unity Editor tool for counting lines of code in a project or selected folder.",
+  "author": "RimuruDev",
+  "license": "MIT",
+  "main": "CountCodeLinesEditor.cs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/Unity-Code-Line-Counter.git"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "tool",
+    "code",
+    "line counter",
+    "C#",
+    "rimuru-dev",
+    "rimurudev"
+  ],
+  "bugs": {
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev/Unity-Code-Line-Counter/issues"
+  },
+  "homepage": "https://github.com/RimuruDev/Unity-Code-Line-Counter",
+  "dependencies": {}
+}
