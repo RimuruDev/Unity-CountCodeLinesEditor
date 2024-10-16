@@ -25,5 +25,6 @@
 
 Спасибо за бесполезно потраченное время :3 Жми на звездочку, оставляй issue или просто выпей кофейку.
 
-<img width="373" alt="image" src="https://github.com/user-attachments/assets/d241d439-97ec-4803-bc13-7c863d243ea7">
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/c3061974-7b72-40a2-a178-2a1945a1dc7e">
+
 
