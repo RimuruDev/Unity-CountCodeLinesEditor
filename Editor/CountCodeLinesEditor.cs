@@ -55,7 +55,7 @@ namespace AbyssMoth
                 totalLines += fileLineCount;
             }
 
-            Debug.Log($"\nTotal lines of code: {totalLines}");
+            Debug.Log($"\nTotal lines of code: {totalLines} in {files.Length} files");
         }
 
         private int CountLinesInFile(string filePath)
