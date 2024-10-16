@@ -1,6 +1,6 @@
 {
   "name": "unity-code-line-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Unity Editor tool for counting lines of code in a project or selected folder.",
   "author": "RimuruDev",
   "license": "MIT",
